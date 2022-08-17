@@ -10,10 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -23,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qr-code-component-solution-uiRkghT2ge)
+- Live Site URL: [Live Site at Netlify](https://qr-code-component-thr.netlify.app/)
 
 ## My process
 
@@ -38,9 +35,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned in this exercise how to use max-width to make my project responsive
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I learned in this exercise how to use max-width to make my project responsive.
+I also used the application: PureRef to get as close as possible to the layout which was left to follow as a reference
 
 ## Author
 
